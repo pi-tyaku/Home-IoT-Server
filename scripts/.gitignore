@@ -1,0 +1,9 @@
+DHT11_Python
+*.tar.gz
+AHT21_standAlone.py
+.env
+old
+lib64
+IR
+*.cfg
+cow.py

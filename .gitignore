@@ -1,0 +1,7 @@
+dht11
+DHT11_Python
+.env
+env
+*.save
+matter
+python-env
