@@ -3,5 +3,6 @@ DHT11_Python
 .env
 env
 *.save
+*.png
 matter
 python-env
