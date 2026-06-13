@@ -24,7 +24,7 @@ import json
 from scripts import discord
 
 OUTSIDE_MODE=False
-JSONPATH="/home/tyaku/blynk-library-python/main/Settings.json"
+JSONPATH="Your Json path"
 load_dotenv()
 #set GPIO and key
 GPIO.setwarnings(False)       # ・・・ ②
