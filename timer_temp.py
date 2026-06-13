@@ -7,7 +7,7 @@ from figures import headache
 from time import sleep
 import json
 
-JSONPATH="/home/tyaku/blynk-library-python/main/Settings.json"
+JSONPATH="set your json path"
 
 def write_temp():
 	result=AHT21.get_environmental_data(1)
